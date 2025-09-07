@@ -1,0 +1,11 @@
+ADMIN
+DNI: 69752454
+Fecha de Nacimiento: 220697
+
+MÉDICO
+DNI: 58963214
+Fecha de Nacimiento: 150385
+
+RECEPCIÓN
+DNI: 47125896
+Fecha de Nacimiento: 081190
